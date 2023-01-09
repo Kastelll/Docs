@@ -16,7 +16,7 @@
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
     "contentlayer": "^0.2.6",
-    "framer-motion": "^7.6.7",
+    "framer-motion": "^8.3.3",
     "github-slugger": "^1.4.0",
     "lodash": "^4.17.21",
     "mitt": "^3.0.0",
